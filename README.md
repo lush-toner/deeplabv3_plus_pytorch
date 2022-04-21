@@ -1,8 +1,8 @@
 # pytorch-deeplab-xception
 
-## Original Code from https://github.com/jfzhang95/pytorch-deeplab-xception
+### Original Code from https://github.com/jfzhang95/pytorch-deeplab-xception
 
-## The Following things are added and modified from original code
+### The Following things are added and modified from original code
 
 Specified for PASCAL VOC data.
 
