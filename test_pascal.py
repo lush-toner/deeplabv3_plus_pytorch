@@ -34,7 +34,7 @@ def transform(image):
 
 torch.set_grad_enabled(False)
 
-image = Image.open('2007_001761.jpg')
+image = Image.open('2007_000836.jpg')
 
 # image = Image.open('001.bmp')
 # image = image.convert('RGB')

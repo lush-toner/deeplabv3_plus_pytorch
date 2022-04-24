@@ -54,7 +54,8 @@ result using default parameters
 
 
 ### visualize image
-![Results](output_img/2007_001761.jpg)
-![Results](output_img/output.jpg)
+![input](output_img/2007_000836.jpg)
+![labels](output_img/2007_000836.png)
+![output](output_img/output.jpg)
 
 Additional backbone or segmentation model will be uploaded later
